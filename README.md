@@ -37,32 +37,38 @@ I help businesses in Nigeria and globally by creating:
 
 ### 🚀 Featured Projects
 
-#### [PFOS - Project Fulfillment & Order System](link-to-repo)
-A complete order management solution for solar energy companies. Streamlines the entire sales process from quote to fulfillment.
+#### [PFOS Solar - Solar Energy Company Website](https://github.com/davytun/pfos)
+Complete company website for a solar energy business, featuring product showcases, service information, and client engagement features.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-**Impact:** Increased online engagement and simplified order tracking  
-[View Live Demo](your-demo-link) | [Case Study](link-if-available)
+**Tech Stack:** HTML5, CSS3, JavaScript, Express.js, MongoDB  
+**Impact:** Professional online presence for solar energy business  
+🌐 [Visit Live Site](https://pfossolar.com/)
 
-#### [Fittingz - Fashion Designer Client Management](link-to-repo)
-Specialized CRM for fashion designers to manage client measurements, orders, and appointments.
+#### [Fittingz - Fashion Designer Client Management](https://github.com/davytun/fittingz)
+Specialized CRM for fashion designers to manage client measurements, orders, and appointments. Streamlines the entire client journey from consultation to delivery.
 
-**Tech Stack:** React.js, Node.js, PostgreSQL  
+**Tech Stack:** Next.js, Express.js, PostgreSQL  
 **Impact:** Reduced client onboarding time and eliminated measurement errors  
-[View Live Demo](your-demo-link)
+🌐 [Visit Live Site](http://fittingz.vercel.app)
 
-#### [Altair Attic - Corporate Website](link-to-repo)
-Modern, professional company website built to enhance brand presence and attract more clients.
+#### [Altair Attic - Corporate Website](https://github.com/davytun/altair-attic)
+Modern, professional company website built to enhance brand presence and attract more clients with clean design and seamless user experience.
 
 **Tech Stack:** React.js, Responsive Design  
 **Impact:** Improved user retention with modern, professional design  
-[View Live Demo](your-demo-link)
+🌐 [Visit Live Site](https://altair-attic.com/)
 
-#### [Verizone - Property Management Platform](link-to-repo)
-Scalable web application for property reports and real estate management.
+#### [Vaspa - Web Application](https://github.com/davytun/vaspa)
+Professional web application delivering streamlined user experience and functionality.
 
-**Tech Stack:** React.js, HTML5, CSS3, JavaScript  
-[View Live Demo](your-demo-link)
+**Tech Stack:** Modern web technologies  
+🌐 [Visit Live Site](https://vaspa.org)
+
+#### [FDP Channel Hub - Content Platform](https://github.com/davytun/fdp-channel-hub)
+Content management and distribution platform with modern interface and user engagement features.
+
+**Tech Stack:** Next.js, Modern web stack  
+🌐 [Visit Live Site](https://fdp-channel-hub.vercel.app/)
 
 ### 🌍 Why Work With Me?
 
